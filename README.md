@@ -1,6 +1,9 @@
 # Crop-recommendation using Machine Learning techniques
+
 Dataset
+
 This dataset was build by augmenting datasets of rainfall, climate and fertilizer data available for India.
+
 Data fields
 N - ratio of Nitrogen content in soil
 P - ratio of Phosphorous content in soil
